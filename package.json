@@ -6,8 +6,7 @@
   "main": "index.js",
   "module": "index.mjs",
   "dependencies": {
-    "debug": "2.0.x",
-    "lodash": "4.17.11"
+    "debug": "2.0.x"
   },
   "engines": {
     "node": ">=8.0"
